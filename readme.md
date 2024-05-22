@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **java javascript**
 
-- 📫 How to reach me **zeeshanrahman72@gmail.com**
+- 📫 How to reach me **zeeshan.raza.kol@gmail.com**
 
 - ⚡ Fun fact **I think I am introvert😶‍🌫️😶.**
 
