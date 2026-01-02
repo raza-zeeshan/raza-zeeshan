@@ -5,13 +5,16 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-
+<div>
+  <div align="left">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raza-zeeshan&label=Profile%20views&color=0e75b6&style=flat" alt="raza-zeeshan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raza-zeeshan" alt="raza-zeeshan" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raza-zeeshan" alt="raza-zeeshan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/zeeshan65722016" target="blank"><img src="https://img.shields.io/twitter/follow/zeeshan65722016?logo=twitter&style=for-the-badge" alt="zeeshan65722016" /></a> </p>
+</div>
 
+</div>
 - 🔭 I’m currently working on **BACKEND WITH JAVA**
 
 - 🌱 I’m currently learning **React, Java, Salesforce, Kafka, Docker, Kubernates**
@@ -29,7 +32,8 @@
 - 📫 How to reach me **zeeshanraza0201@gmail.com**
 
 - ⚡ Fun fact **CODE - EAT - SLEEP - REPEAT**
-- <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
+  
+  <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 <!-- <img  src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/> -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -50,3 +54,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raza-zeeshan&show_icons=true&locale=en" alt="raza-zeeshan" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raza-zeeshan&" alt="raza-zeeshan" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
