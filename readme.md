@@ -48,7 +48,6 @@
 <br>
 <br>
 <br>
-<br>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -60,5 +59,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raza-zeeshan&" alt="raza-zeeshan" /></p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 
