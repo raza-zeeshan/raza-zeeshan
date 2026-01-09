@@ -1,8 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 <h1 align="center">Hi 👋, I'm Zeeshan Raza</h1>
 <h3 align="center">A passionate java full stack developer from India</h3>
+
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raza-zeeshan&label=Profile%20views&color=0e75b6&style=flat" alt="raza-zeeshan" /> </p>
 
