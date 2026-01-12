@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **React, Java, Salesforce, Kafka, Docker, Kubernates**
 
-- 👯 I’m looking to collaborate on **JAVA DEVELOPERS and SALESFORCE ENTHUSIAST**
+- 👯 I’m looking to collaborate on **JAVA FULL DEVELOPERS and SALESFORCE ENTHUSIAST**
 
 - 🤝 I’m looking for help with **Java, Spring Boot, ReactJs**
 
