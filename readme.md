@@ -11,11 +11,6 @@
 
 <p align="left"> <a href="https://twitter.com/zeeshan65722016" target="blank"><img src="https://img.shields.io/twitter/follow/zeeshan65722016?logo=twitter&style=for-the-badge" alt="zeeshan65722016" /></a> </p>
 
-<!-- <p style="display: flex; items:center; justify-content: space-between; gap: 10px;">
-  <img src="https://img.shields.io/badge/Pull%20Requests-200%2B-blue" alt="PR Count"/>
-  <img src="https://img.shields.io/badge/Total%20Contributions%20(Last%20Year)-4000%2B-brightgreen" alt="Total Contributions In Last Year"/>
-</p>  -->
-
 - 🔭 I’m currently working on **BACKEND WITH JAVA**
 
 - 🌱 I’m currently learning **React, Java, Salesforce, Kafka, Docker, Kubernates**
