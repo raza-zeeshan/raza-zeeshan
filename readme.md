@@ -53,10 +53,6 @@
 </div>
 
 
-
-
-
-
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raza-zeeshan&show_icons=true&locale=en&layout=compact" alt="raza-zeeshan" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=raza-zeeshan" alt="raza-zeeshan" /></p>
