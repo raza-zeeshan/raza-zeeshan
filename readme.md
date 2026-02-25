@@ -26,8 +26,6 @@
 
 - 📫 How to reach me **zeeshanraza0201@gmail.com**
 
-- 
-
 - ⚡ Fun fact **CODE - EAT - SLEEP - REPEAT**
 
 <h3 align="left">Connect with me:</h3>
