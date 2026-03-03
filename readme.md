@@ -47,7 +47,6 @@
   <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="720 " height="200" /></a>
  <img  src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' width="720 " height="600" alt = 'Awesome Matrix Code' align='left'/> 
 </div>
-
 <br>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raza-zeeshan&show_icons=true&locale=en&layout=compact" alt="raza-zeeshan" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=raza-zeeshan" alt="raza-zeeshan" /></p>
