@@ -25,9 +25,7 @@
 - 💬 Ask me about **reactJs, Java, and Salesforce**
 
 - 📫 How to reach me **zeeshanraza0201@gmail.com**
-
 - ⚡ Fun fact **CODE - EAT - SLEEP - REPEAT**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zeeshan65722016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zeeshan65722016" height="30" width="40" /></a>
